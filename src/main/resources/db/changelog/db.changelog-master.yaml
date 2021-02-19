@@ -1,0 +1,4 @@
+databaseChangeLog:
+  # DB schema initialization
+  - include:
+      file: db/changelog/shema/2021-02-19-init-file.sql
